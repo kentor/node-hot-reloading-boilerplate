@@ -1,0 +1,27 @@
+{
+  "name": "node-hot-reloading-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for hot module reloading development in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentor/node-hot-reloading-boilerplate.git"
+  },
+  "keywords": [
+    "hot",
+    "module",
+    "reloading"
+  ],
+  "author": "Kenneth Chung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentor/node-hot-reloading-boilerplate/issues"
+  },
+  "homepage": "https://github.com/kentor/node-hot-reloading-boilerplate#readme",
+  "devDependencies": {
+    "dependency-graph": "0.5.0"
+  }
+}
