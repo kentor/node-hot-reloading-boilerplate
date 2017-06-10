@@ -1,9 +1,7 @@
 A boilerplate for hot module reloading development in Node.js. See my [blog
 post][b] for more information.
 
-Run it with `npm install` then `npm start`.
-
-Note: The code is written for Node 6+.
+Run it with `npm install` or `yarn`, then `npm start`. Try updating `build.js`.
 
 License: [MIT](LICENSE)
 

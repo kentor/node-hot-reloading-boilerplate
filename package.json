@@ -4,7 +4,7 @@
   "description": "Boilerplate for hot module reloading development in Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node watch.js"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,8 @@
   "keywords": [
     "hot",
     "module",
-    "reloading"
+    "reloading",
+    "hot module reloading"
   ],
   "author": "Kenneth Chung",
   "license": "MIT",
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/kentor/node-hot-reloading-boilerplate#readme",
   "devDependencies": {
-    "dependency-graph": "0.5.0"
+    "chokidar": "1.7.0",
+    "invalidate-module": "1.0.0"
   }
 }
