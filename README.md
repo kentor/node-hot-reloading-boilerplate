@@ -5,6 +5,6 @@ Run it with `npm install` then `npm start`.
 
 Note: The code is written for Node 6+.
 
-License: [MIT](License.txt)
+License: [MIT](LICENSE)
 
 [b]: http://kentor.me/posts/node-js-hot-reloading-development/
